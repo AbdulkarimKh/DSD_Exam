@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Vivado_projects/Exam/Task4/Task4.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Vivado_projects/Exam/Task4/Task4.srcs/sim_1/new/test_bench.sv,1732641089,systemVerilog,,,,tb_four_bit_multiplier,,,,,,,,
+/home/it/Vivado_projects/Exam/Task4/Task4.srcs/sources_1/new/Full_adder.sv,1732641722,systemVerilog,,/home/it/Vivado_projects/Exam/Task4/Task4.srcs/sim_1/new/test_bench.sv,,four_bit_adder;four_bit_multiplier,,,,,,,,
