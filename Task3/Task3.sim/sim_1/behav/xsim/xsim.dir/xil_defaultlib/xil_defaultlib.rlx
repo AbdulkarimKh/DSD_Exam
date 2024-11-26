@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Vivado_projects/Exam/Task3/Task3.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Vivado_projects/Exam/Task3/Task3.srcs/sim_1/new/tb_adder.sv,1732638662,systemVerilog,,,,tb_eight_bit_adder,,,,,,,,
+/home/it/Vivado_projects/Exam/Task3/Task3.srcs/sources_1/new/adder_8bits.sv,1732638454,systemVerilog,,/home/it/Vivado_projects/Exam/Task3/Task3.srcs/sim_1/new/tb_adder.sv,,eight_bit_adder;four_bit_adder,,,,,,,,
